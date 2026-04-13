@@ -9,7 +9,7 @@ The workflow begins with mapping the motion signal into be memristive crossbar a
 1. **Simulation setup and WTA test execution**
 2. **Output collection and result evaluation**
 
-<img src="insensor_.jpg" alt="Alt text" style="height: 200; width: auto;">
+<img src="Insensor_.jpg" alt="Alt text" style="height: 200; width: auto;">
 
 ### Important Code Files
 
