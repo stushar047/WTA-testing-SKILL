@@ -1,0 +1,10 @@
+_vVDD4 (VDD4 0) vsource val0=1.20 val1=0 period=2u delay=1n rise=1n fall=1n width=1u type=pulse
+_vVDD3 (VDD3 0) vsource val0=1.20 val1=0 period=2u delay=1n rise=1n fall=1n width=1u type=pulse
+_vVDD2 (VDD2 0) vsource val0=1.20 val1=0 period=2u delay=1n rise=1n fall=1n width=1u type=pulse
+_vVDD1 (VDD1 0) vsource val0=1.20 val1=0 period=2u delay=1n rise=1n fall=1n width=1u type=pulse
+_vGND (GND 0) vsource dc=0 type=dc
+_vVC (VC 0) vsource val0=1.10 val1=0 period=2u delay=1n rise=1n fall=1n width=1u type=pulse
+_iIin1 (Iin1 0) isource val0=-4.272800e-06 val1=0 period=2u delay=1n rise=1n fall=1n width=1u type=pulse
+_iIin2 (Iin2 0) isource val0=-4.272800e-06 val1=0 period=2u delay=1n rise=1n fall=1n width=1u type=pulse
+_iIin3 (Iin3 0) isource val0=-4.272800e-06 val1=0 period=2u delay=1n rise=1n fall=1n width=1u type=pulse
+_iIin4 (Iin4 0) isource val0=-5.632900e-06 val1=0 period=2u delay=1n rise=1n fall=1n width=1u type=pulse
